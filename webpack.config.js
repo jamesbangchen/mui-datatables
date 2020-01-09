@@ -8,7 +8,7 @@ module.exports = {
   stats: "verbose",
   context: __dirname,
   output: {
-    filename: 'bundle.js'
+    filename: 'bang.js'
   },
   devtool: 'source-map',
   devServer: {
